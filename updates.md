@@ -8,6 +8,13 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+<div class="update-card">
+    <div class="update-date">Feb 2, 2026</div>
+    <div class="update-text">
+      pooped a lot today.  Dom loved the smell
+    </div>
+  </div>
+
   <div class="update-card">
     <div class="update-date">Feb 2, 2026</div>
     <div class="update-text">
