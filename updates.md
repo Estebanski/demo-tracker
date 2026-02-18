@@ -11,23 +11,10 @@ nav: updates
 <div class="update-card">
     <div class="update-date">Feb 2, 2026</div>
     <div class="update-text">
-      pooped a lot today.  Dom loved the smell
+      created this site and learning to use this.
     </div>
   </div>
 
-  <div class="update-card">
-    <div class="update-date">Feb 2, 2026</div>
-    <div class="update-text">
-      Reached the next town. Took a rest day, resupply done.
-    </div>
-  </div>
-
-  <div class="update-card">
-    <div class="update-date">Feb 1, 2026</div>
-    <div class="update-text">
-      First day on trail. Legs are good. Weather perfect.
-    </div>
-  </div>
 
   <div class="update-note">(Older updates at the bottom)</div>
 
