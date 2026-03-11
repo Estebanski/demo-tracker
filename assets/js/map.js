@@ -11,7 +11,7 @@
   const statsListEl = document.getElementById("statsList");
   const insightsListEl = document.getElementById("insightsList");
 
-  const trackUrl = new URL("./data/track.geojson", window.location.href).toString();
+  const trackUrl = "https://dombatteate.github.io/dom-pct/data/track.geojson";
   const latestUrl = new URL("./data/latest.json", window.location.href).toString();
 
   // ---------- helpers ----------
