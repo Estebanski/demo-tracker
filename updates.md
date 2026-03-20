@@ -9,7 +9,7 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
-    <div class="update-date">Mar 22, 2026</div>
+    <div class="update-date">Mar 21, 2026</div>
     <div class="update-text">
       Successfully edited on my iphone - all tests are working
     </div>
