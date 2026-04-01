@@ -9,9 +9,9 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
-    <div class="update-date">Mar 21, 2026</div>
+    <div class="update-date">Mar 31, 2026</div>
     <div class="update-text">
-      Successfully edited on my iphone - all tests are working
+    Stayed at Camp Lockett about 1/2 a mile from the border.  Met a bunch of hikers starting tommorrow and got great advice from some old timers who have done this trail a few times and were here to share experiences.  excited for tommorrow and i hope i don't get injured early!!!
     </div>
   </div>
 
