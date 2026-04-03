@@ -7,7 +7,13 @@ nav: updates
 <div class="updates">
 
   <h2 class="updates-title">Trail Updates</h2>
-
+<div class="update-card">
+    <div class="update-date">Apr 3,2026</div>
+    <div class="update-text">
+    Couldn't ask for a better start.  Did 15 miles to Hauser Creek day 1, 17 miles to Franks crossing day 2, and i'm writing this from Mt Laguna at about mile 42.  we've bedn starting early at 7, and breaking the day into 5 mile stretches which takes us about 2 hours.  weather is cool, the trail is beautiful, and been meeting really cool people.  brought way too much food as theres food every 2 days off trail.  i'm getting a burger at Laguna as i write this which means i'll have extra food in my bag when we get to Julian.
+    </div>
+  </div>
+  
 <div class="update-card">
     <div class="update-date">Mar 31, 2026</div>
     <div class="update-text">
