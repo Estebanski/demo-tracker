@@ -7,6 +7,16 @@ nav: updates
 <div class="updates">
 
   <h2 class="updates-title">Trail Updates</h2>
+
+
+  <div class="update-card">
+    <div class="update-date">Apr 5,2026</div>
+    <div class="update-text">
+    Made it to Julian (mile 77) where i have wifi and should be able to update photos finally.  had a big day yesterday - hiked 20 miles and then Cowboy camped under the stars.  Hiked 12 today and got a ride to Julian from a trail angel.  The scenery is Amazing we got a view of the Mojave desert shortly after leaving Mt Laguna on Friday.  i'm hoping the rest will allow my blisters to heal and shoulders to loosen up a bit before the next stretch!
+    
+    </div>
+  </div>
+  
 <div class="update-card">
     <div class="update-date">Apr 3,2026</div>
     <div class="update-text">
