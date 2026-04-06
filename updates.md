@@ -31,13 +31,6 @@ nav: updates
     </div>
   </div>
 
-<div class="update-card">
-    <div class="update-date">Mar 21, 2026</div>
-    <div class="update-text">
-      Making sure I can edit this and see how it works
-    </div>
-  </div>
-
 
 <div class="update-card">
     <div class="update-date">Mar 20, 2026</div>
