@@ -8,6 +8,13 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+<div class="update-card">
+    <div class="update-date">Apr 7,2026</div>
+    <div class="update-text">
+    We left Julian at 7am this morning after doing 0 miles yesterday and resting our blisters and feet.  We ate delicious town food yesterday, and theres a restaurant called Moms that gives PCT hikers a free slice of pie with Ice Cream. Hiked 17 miles today to mile 94, which sets us up for crossing 100 tomorrow, and making it to Warner Springs where a girl there makes homemade Burrito's for hikers if you order ahead. It was only 78 degrees today, but we're in the high desert, and man it felt like 90 degrees.  It was hot and dry.  Every day the PCT looks different from the last.  beautiful views of the valleys below, we're over 5000 feet in elevation most of the time.
+    
+    </div>
+  </div>
 
   <div class="update-card">
     <div class="update-date">Apr 5,2026</div>
