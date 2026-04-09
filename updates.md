@@ -8,6 +8,14 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+  <div class="update-card">
+    <div class="update-date">Apr 8,2026</div>
+    <div class="update-text">
+    Hard to believe that today is one week on the PCT.  We did 15 miles today which felt way easier than last week.  My feet are getting less sore each day and legs are feeling stronger each day.  We're camping at mile 109, where we finished at about 2pm.  if we had rested a few hours we could have easily gone another 5 miles, but were getting breakfast burrito's here tomorrow morning before heading out on a 4 day section to Idlewild. Water gets harder in this next stretch, and we have to average 18 miles to pull it off.  Challenging but doable.
+    
+    </div>
+  </div>
+
 <div class="update-card">
     <div class="update-date">Apr 7,2026</div>
     <div class="update-text">
