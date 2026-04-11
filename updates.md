@@ -8,6 +8,14 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+    <div class="update-card">
+    <div class="update-date">Apr 10,2026</div>
+    <div class="update-text">
+    We just got to mile 151 today.  We heard about a guy who died yesterday on the stretch we just finished.  It was a brutal stretch of desert with about 2000 foot of elevation gain and very dry and hot with a 15 mile water carry, so it's not surprising.  i had to reach deep today because we did 22 miles yesterday and 20 miles today and just hit a bit of a wall.  I'll recover overnight but some days are just harder than others. In my pictures the mountains look so cute and small, but they don't do justice to the views we have.  Every day is amazing scenery and it changes all the time.  I've seen rattlesnakes, rabbits, lizards, mice, so many cool and interesting bugs. It's been insanely challenging and super rewarding.
+    
+    </div>
+  </div>
+
   <div class="update-card">
     <div class="update-date">Apr 8,2026</div>
     <div class="update-text">
