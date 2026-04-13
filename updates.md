@@ -8,6 +8,14 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+<div class="update-card">
+    <div class="update-date">Apr 12,2026</div>
+    <div class="update-text">
+    I'm writing this from the comfort of the Silver Pines Lodge in Idylwild about 5 miles off the PCT, which we had to walk as well...urgh.  it was worth it though because it's pouring rain outside right now and last night was close to 32 degrees, so i would be wet and cold and miserable if we didn't stay here.  Today we walked along a high ridgeline about 8000 feet in elevation.  on one side was Palm Springs which was the non windy side protected by the mountains.  on the other was Idylwild with winds over 35mph trying to push us off the mountain.  it was intense hiking but still beautiful.  i just wish i wasn't completely exhausted from climbing 4000 feet in elevation so i could really enjoy it.  we're at mile 179 now and will take a day off tommorrow to heal up and rest for summitting mt San Jacinto on Tuesday!
+    
+    </div>
+  </div>
+
     <div class="update-card">
     <div class="update-date">Apr 10,2026</div>
     <div class="update-text">
