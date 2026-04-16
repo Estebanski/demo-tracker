@@ -8,6 +8,14 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+  <div class="update-card">
+    <div class="update-date">Apr 15,2026</div>
+    <div class="update-text">
+    So we summited Mt San Jacinto, which is not actually on the PCT, but it's a 5 mile detour that is well worth the effort, and all hardcore PCT'ers do, so of course we had to do it.  We hiked through 4 inches of snow that fell the night before, for the entire day.  feet were soaked and cold, and the elevation was brutal.  It felt like our hardest day yet, but every day seems to feel like that.  tonight we're staying at a trail angels house in Bannon right off highway 10, because you can't camp within 10 miles of the highway, and we were ruined from a 8000 foot descent over the last few days.  yesterday we were freezing in the snow and today we were burning in the sun.  i swear it's s different trail every day.
+    
+    </div>
+  </div>
+
 <div class="update-card">
     <div class="update-date">Apr 12,2026</div>
     <div class="update-text">
