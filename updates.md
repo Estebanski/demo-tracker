@@ -9,6 +9,14 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
   <div class="update-card">
+    <div class="update-date">Apr 18,2026</div>
+    <div class="update-text">
+   We made it into Big Bear today at mile 266, which it turns out is kind of a big milestone.  It takes most people 3 weeks to get here, and when you do you are about 10% of the way done with the trail.  Apparently about 60% of all "through-hikers" will have given up by this point, either because of injury or because it's so hard.  If you survive past this point you have a very good chance to make it the whole way.  Honestly, of the last 7 days of hiking, 5 of them have been the most brutal hikes I've done in my life.  We've ascended over 5000ft in 12 miles, we've descended over 8000 feet in about 14 miles, only to climb up 4000 feet the next day. Whoever made this trail has a sick sense of humor sometimes about climbing up steep ridges just to go down again into a parallel valley.  It's insanely hard backpacking, and camping above 5000 feet of elevation generally means you are in freezing temps when you go to sleep on the cold hard ground.  The hardest day yet was 2 days ago, when we had to hike up 5000 feet of elevation along "The Wash-out" section, where the trail was obliterated by flooding 3 years ago.  theres now a 100 meter wide river bed with a 6 foot wide river snaking across the debri feild.  it's just wide rnough that you can't jump it, so you have to walk through it getting your feet wet.  the rest of the time you walk on sand and shin high granite rocks that are totally unstable.  we could only go less than 2 miles an hour in a 12 mile slog, and i think we caught noro virus on top of it all.  At the end of the day we had to climb 1000 more feet and slept at 8600 feet elevation where our water froze overnight. I'm pumped we made it to Big Bear and town food and a zero day tommorrow to hopefully get rid of the feeling of food poisoning.
+    
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Apr 15,2026</div>
     <div class="update-text">
     So we summited Mt San Jacinto, which is not actually on the PCT, but it's a 5 mile detour that is well worth the effort, and all hardcore PCT'ers do, so of course we had to do it.  We hiked through 4 inches of snow that fell the night before, for the entire day.  feet were soaked and cold, and the elevation was brutal.  It felt like our hardest day yet, but every day seems to feel like that.  tonight we're staying at a trail angels house in Bannon right off highway 10, because you can't camp within 10 miles of the highway, and we were ruined from a 8000 foot descent over the last few days.  yesterday we were freezing in the snow and today we were burning in the sun.  i swear it's s different trail every day.
