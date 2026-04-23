@@ -8,6 +8,14 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
 
+<div class="update-card">
+    <div class="update-date">Apr 23,2026</div>
+    <div class="update-text">
+I'm currently sitting in the McDonalds (mile 342) at Camp Cajon off hwy 15 anout a day out of Wrightwood, where we'll take a zero day.  i haven't eaten McDonalds in many years, but man i was craving this food for 2 days.  Ever since leaving Big Bear, this trail has been - Pleasant.  The first day the trail was flat to downhill, no wind snd sbout 62 degrees, it was perfect hiking.  On Tuesday we hiked a nice canyon and ended up at a hot springs where i got in and soaked at the end of a 21 mile day.  Yesterday we did a record 27 miles all because the trail was so well maintained.  My blisters are healing up and my legs getting stronger so we're able to do big miles when the trail is easy.  This afternoon we'll  start climbing Mt Baden Powell which is about a 6000 foot climb to it's peak which is about 9000 feet tall.  but first we'll stop at Wrightwood tomorrow for a zaro day.  
+    
+    </div>
+  </div>
+
   <div class="update-card">
     <div class="update-date">Apr 18,2026</div>
     <div class="update-text">
