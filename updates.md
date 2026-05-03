@@ -9,6 +9,14 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+<div class="update-card">
+
+<div class="update-date">May 2,2026<div>
+    <div class="update-text">
+We have entered the bizarro world of Hikertown.  this place was built 20 years ago as a stop over for PCT Hikers, because the trail runs right by it.  We've been to a few of these hiker "havens".  if you are looking for a 4 star hotelier, this ain't it.  If you need a 1 star hotel experience as a minimum, sorry you will be sorely disappointed.  if you want an operational public toilet that may or may not have Toilet Paper and a hose that can run hot water and operate as a shower, you're gonna love this place.  it's run by a guy named Bob, who didn't even charge us to camp here, so price is perfect.  Bob however, is a little senile, and will talk your ear off given the chance, but a really good person.  He did have the phone number for another crazy guy named Richard, who preferred to be called Dick, who could drive us to a building where they sell hikers "resupply" - basically beef jerky and ramen and candy bars.  it was 5 miles down the highway, and then Dick was gone forever so I had to bribe the nice cashier to drive us the 5 miles back.  She was a nice local who told us all about the meth addicts around here, and how she cleaned herself up, and is now living in a trailer on the Hikertown property. Sooo....it wasn't even out of her way to drive us back after her shift at the store, she only agreed to drive us when i paid her $20.  I swear you could make a great documentary sbout all the people living out here.  I will now lay down in a yard with fake building fronts that look like a sheriffs office, a saloon, a doctors office etc.  people used to sleep in the little buildings but they were infested with bed bugs, so laying in the yard is better, except you kind of have to keep the chickens and dog that run around the yard away from your food.  Thats how low the standards are for a PCT hiker - come join us, we're pretty much homeless people - except we think we're better.
+      
+      </div>
+  </div>
 
 <div class="update-date">Apr 29,2026<div>
     <div class="update-text">
