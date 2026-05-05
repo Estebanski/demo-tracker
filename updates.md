@@ -11,6 +11,18 @@ nav: updates
 <div class="update-card">
 <div class="update-card">
 
+<div class="update-date">May 5,2026<div>
+    <div class="update-text">
+
+      
+      
+We left Hikertown at 2:30 am 2 days ago and hiked the "Aquaduct section", which goes through the Mojave desert, at night to avoid the hottest point in the day.  The strategy worked perfectly, as we made it 17 miles to the comfort of the Cottonwood bridge just as the sun was cranking up at 10am.  We slept there through the afternoon and had a surprise visit from "Sprinter" a legendary trail angel who gives hikers Gatorade and Ice Cream out of his Sprinter Van.  We then hiked another 10 miles north into the mountains where temps are way cooler than the mojave.  
+We made it to Tehachapi at mile 566 last night, and then got a ride into Tehachapi from a trail angel. Mile 566 is a big deal because it ends the "desert section" on the Far Out app and we start the "Sierra Section", but all PCT hikers count up to Kennedy Meadows as the Desert Section which is another 150 miles away.  We'll have some big water carries, and it's a super dry patch ahead which is why we all count it as the desert still.  
+We've been getting so lucky with our zero days in town.  The bad weather always seems to come when we have a zero day planned, saving us from hiking in rain/snow etc.  Our clothes and gear are staying dry while it's miserable outside again today.  hiking while freezing cold and wet is bad, and knowing you have to set up in a wet tent is even more miserable.  I'm super glad we're dodging this latest "storm" again.
+our plan is to hike to Kennedy Meadows over then next 10 days, and then we'll be taking a week off for the Memorial Day weekend, and resuming hiking on May 27th to go into the Sierra's.  
+      
+      </div>
+      
 <div class="update-date">May 4,2026<div>
     <div class="update-text">
 So every day we wake up(unless it’s one of our zero days in town) and then we hike from 6:45 am to about 9am - we take a 30 minute break - then hike another 2-3 hours - take an hour break and hike 2 more hours take a 30 minute break and hike another 2 hours.  We can go between 20 and 24 miles this way depending on terrain.  The terrain has been an absolute beast though.  We’re averaging 4000 feet of elevation each day which makes each day some of the toughest hiking we’ve done. Wake up and do it again tomorrow.  It’s a lot more physical than I expected.  I knew it would be tough but day after day wears you down a bit mentally and physically with blisters, sore feet, aching muscles, not to mention the poison oak, you’ll enevitablly rub against and everything in the desert sections wants to stab you.  Plants have no give there at all and will just cut you for brushing against them.  Now we get to deal with a new threat too.  Something called the “Poodle Dog Bush”. Apparently it’s infested the trail this year and it’s like poison oak on steroids.  It causes a painful rash that lasts a few days.  If you touch it, you’ll remember this plant and want to destroy them all.  Like just kill all plants in case any of them is this poodle dog bush, which by the way i have no idea what it looks like.
