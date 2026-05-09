@@ -11,6 +11,15 @@ nav: updates
 <div class="update-card">
 <div class="update-card">
 
+
+<div class="update-date">May 9,2026<div>
+    <div class="update-text">
+
+       The trail changes quickly.  We were just walking through a beautiful pine forest with granite boulders on a slow sloping hill and the trail was amazing.  It was what I dreamt it would be before I hiked this trail, then next thing you know we rounded a corner and boom all the pine trees were gone and it was barren desert except for the occasional patch of Joshua trees.  And it suddenly got hot and dry and we were back in the desert again?  This section were on is some of the most remote in California.  We left Tehachapi 3 days ago and haven’t had a bar of cell service since.  We’re walking along the Eastern slope of the Sierra’s and theres one section where if some dude named Larry didn’t drop 100x 5 gallon water jugs, we’d all be dead.  You would have to carry about 45 miles of water, which would be almost impossible because it would be at least 3 days of water.  Thank god for Larry and his kindness, and knowledge that without him there’d be tons of dead hikers.  Even with Larry, we’re still doing 20 mile water carries which means you need water for that day, for camping that night, and to get to the next water the next day.  These are long heavy carries.  I usually carry 5-6 Liters which is about 12 extra pounds, plus the 5 days of food for this section, which means a 35-40 pound pack - urgh! I’ve run out of water about 3 miles from the next cache, and when we finally got there i couldn’t talk my mouth was so dry.  I know there are folks that are suffering with major dehydration over this section, it’s truly dangerous.  
+Today i got my first glimpse of Mt Whitney way in the distance.  As you look at the first sights of the Sierra’s from here you can tell those mountains are very different from the ranges we’ve been walking through.  They are way higher, and way steeper, and the climbs look brutal!  Of course as soon as we saw Whitney and the Sierra’s the trail turned 180 degrees and we started walking away from them?!?!?Who the hell made this trail and what the hell were they thinking?  It is absolute torture the way this trail just goes around another mountain just for the sake of wasting more time and effort.
+I’m super excited for the Sierra section.  In my mind it’s the heart of this trail, and it’ll be super difficult, super cold, and require some new skills like walking on ice, using ice axe’s and crossing rivers.  First we’re taking the week off for Memorial Day, then we’ll keep hiking on May 26th.  I still have about 80 miles to get to Kennedy Meadows South, through this barren dry stretch, though!  I promise I’ll be cursing the trail makers the entire way for the meandering ups and downs and back and forth.  We joke with one another that if you just want to get from Mexico to Canada go walk highway 5, and you’ll be done in 2 months.  It’s called the Pacific Crest Trail, not the Pacific Valley trail…
+      
+      </div>
 <div class="update-date">May 5,2026<div>
     <div class="update-text">
 
