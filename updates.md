@@ -11,8 +11,8 @@ nav: updates
 <div class="update-card">
 <div class="update-card">
 
-div class="update-date">May 15,2026<div>
-    <div class="update-text">
+<div class="update-date">May 15,2026<div>
+    <div class="update-text"> 
 Yesterday was an absolute whirlwind.  I woke up at 6am in a beautiful pine forest, packed up my gear and hiked 6 short miles into Kennedy Meadows South at the foothills of the Sierra’s.  We got “clapped in” as we arrived and recognized about 20 other hikers as we approached the deck of the General Store - it was amazing to have our fellow hikers cheer us into the store and help us celebrate the true end to the southern desert at mile 704 of the PCT.  About 2 hours later, my buddy Dom’s wife picked us up from there and drove us all the way back to the Bay Area, and tonight I’m going to sleep back in civilization.  It’s immediate culture shock where water is pretty much meaningless and potable without filtering it, and candy tastes horribly sweet again.  All my new hiker friends are hundreds of miles away and will be long gone by the time I get back to the trail.  I dreaded each day on the trail and the long slog of hiking but now it’s not even 24 hours since I stopped hiking and I already miss it.  It’s so stupid - I was looking forward to this break in the hike so much, and now I can’t wait to get back to the trail…each day hiking wasn’t even that fun, it was more pain than pleasure, but I can’t wait to finish the PCT, and I hate myself for not cherishing each second in nature while I was out there.  The person that hiked those 700 miles feels like a very different person than who I am right now…I’m just glad the journey isn’t over yet.
       </div>
     </div>
