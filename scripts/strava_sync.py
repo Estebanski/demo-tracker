@@ -87,6 +87,18 @@ def main():
     access = refresh_access_token()
 
     activities = get_recent_activities(access)
+    athlete = get_json(
+    "https://www.strava.com/api/v3/athlete",
+    headers={"Authorization": f"Bearer {access}"}
+)
+
+print("Connected Strava athlete:")
+print(athlete.get("firstname"), athlete.get("lastname"))
+print("Athlete ID:", athlete.get("id"))
+
+print("Recent activities:")
+for a in activities[:20]:
+    print(a.get("start_date"), a.get("name"), a.get("type"), a.get("id"))
     activities.sort(key=lambda a: a.get("start_date", ""))  # älteste -> neueste
 
     track = {"type": "FeatureCollection", "features": []}
