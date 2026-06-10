@@ -86,8 +86,14 @@ def downsample_series(xs, ys, max_points):
 def main():
     def main():
     access = refresh_access_token()
-    athlete = get_athlete(access)
-    
+           athlete = get_json(
+            "https://www.strava.com/api/v3/athlete",
+            headers={"Authorization": f"Bearer {access}"}
+        )
+        
+        print("Connected Strava athlete:")
+        print(athlete.get("firstname"), athlete.get("lastname"), athlete.get("id"))
+            
 
     activities = get_recent_activities(access)
 
