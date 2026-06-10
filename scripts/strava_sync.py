@@ -84,16 +84,15 @@ def downsample_series(xs, ys, max_points):
 
 
 def main():
-    def main():
     access = refresh_access_token()
-           athlete = get_json(
-            "https://www.strava.com/api/v3/athlete",
-            headers={"Authorization": f"Bearer {access}"}
-        )
-        
-        print("Connected Strava athlete:")
-        print(athlete.get("firstname"), athlete.get("lastname"), athlete.get("id"))
-            
+
+    athlete = get_json(
+        "https://www.strava.com/api/v3/athlete",
+        headers={"Authorization": f"Bearer {access}"}
+    )
+
+    print("Connected Strava athlete:")
+    print(athlete.get("firstname"), athlete.get("lastname"), athlete.get("id"))
 
     activities = get_recent_activities(access)
 
@@ -117,13 +116,10 @@ def main():
             continue
 
         altitude = streams.get("altitude", {}).get("data", [])
-        # altitude kann fehlen/leer sein -> dann kein Profil
         has_alt = bool(altitude) and len(altitude) == len(latlng)
 
-        # GeoJSON coords [lon, lat]
         coords = [[p[1], p[0]] for p in latlng]
 
-        # Profil: cumulative distance (m) + altitude (m)
         dist_m = [0.0]
         elev_m = [float(altitude[0])] if has_alt else []
         total_up = 0.0
@@ -149,7 +145,6 @@ def main():
                 prev_lat, prev_lon = lat, lon
                 prev_e = e
 
-            # ausdünnen für Datei
             dist_m_ds, elev_m_ds = downsample_series(dist_m, elev_m, PROFILE_MAX_POINTS)
         else:
             dist_m_ds, elev_m_ds = [], []
@@ -158,7 +153,6 @@ def main():
         feature = {
             "type": "Feature",
             "properties": {
-                # i für alternierende Farben
                 "strava_id": act_id,
                 "name": a.get("name", ""),
                 "start_date": a.get("start_date", ""),
@@ -166,9 +160,8 @@ def main():
                 "moving_time_s": int(a.get("moving_time", 0) or 0),
                 "type": a.get("type", ""),
                 "elevation_gain_m": float(total_up),
-                # Profil-Daten (für Popup-Chart)
-                "profile_dist_m": dist_m_ds,    # x
-                "profile_elev_m": elev_m_ds,    # y
+                "profile_dist_m": dist_m_ds,
+                "profile_elev_m": elev_m_ds,
             },
             "geometry": {"type": "LineString", "coordinates": coords}
         }
@@ -176,11 +169,9 @@ def main():
         track["features"].append(feature)
         kept_ids.append(act_id)
 
-        # latest: letzte Koordinate der neuesten Aktivität mit GPS
         last = latlng[-1]
         latest = {"lat": last[0], "lon": last[1], "ts": a.get("start_date", "")}
 
-    # Re-index stable: nach start_date sortieren und i setzen
     track["features"].sort(key=lambda f: f.get("properties", {}).get("start_date", ""))
     for idx, f in enumerate(track["features"]):
         f.setdefault("properties", {})
@@ -195,7 +186,6 @@ def main():
     print(f"Wrote {len(track['features'])} activities to {TRACK_PATH}.")
     if not latest:
         print("No GPS streams found (check Strava privacy/scope).")
-
 
 if __name__ == "__main__":
     main()
