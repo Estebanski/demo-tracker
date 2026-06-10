@@ -88,12 +88,7 @@ def main():
     access = refresh_access_token()
     athlete = get_athlete(access)
     
-    print("Connected Strava athlete:")
-    print(
-        athlete.get("firstname"),
-        athlete.get("lastname"),
-        athlete.get("id")
-    )
+
     activities = get_recent_activities(access)
 
     print("Recent activities from connected Strava account:")
