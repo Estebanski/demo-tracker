@@ -84,7 +84,6 @@ def downsample_series(xs, ys, max_points):
 
 
 def main():
-    def main():
     access = refresh_access_token()
 
     athlete = get_json(
