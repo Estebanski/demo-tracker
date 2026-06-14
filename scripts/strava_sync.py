@@ -43,9 +43,18 @@ def save_json(path, obj):
 
 def get_recent_activities(access_token):
     acts = []
-    for page in range(1, 6):
+    page = 1
+
+    while True:
         url = f"https://www.strava.com/api/v3/athlete/activities?per_page=50&page={page}"
-        acts.extend(get_json(url, headers={"Authorization": f"Bearer {access_token}"}))
+        batch = get_json(url, headers={"Authorization": f"Bearer {access_token}"})
+
+        if not batch:
+            break
+
+        acts.extend(batch)
+        page += 1
+
     return acts
 
 
