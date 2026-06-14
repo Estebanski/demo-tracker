@@ -11,8 +11,8 @@
   const statsListEl = document.getElementById("statsList");
   const insightsListEl = document.getElementById("insightsList");
 
-  const trackUrl = "https://dombatteate.github.io/dom-pct/data/track.geojson";
-  const latestUrl = "https://dombatteate.github.io/dom-pct/data/latest.json";
+  const trackUrl = new URL("./data/track.geojson", window.location.href).toString();
+  const latestUrl = new URL("./data/latest.json", window.location.href).toString();
 
   // ---------- helpers ----------
   const KM_PER_M = 0.001;
