@@ -84,6 +84,7 @@ def downsample_series(xs, ys, max_points):
 
 
 def main():
+    def main():
     access = refresh_access_token()
 
     athlete = get_json(
@@ -100,7 +101,7 @@ def main():
     for a in activities[:20]:
         print(a.get("start_date"), a.get("name"), a.get("type"), a.get("id"))
 
-    activities.sort(key=lambda a: a.get("start_date", ""))  # älteste -> neueste
+    activities.sort(key=lambda a: a.get("start_date", ""))
 
     track = {"type": "FeatureCollection", "features": []}
     latest = None
