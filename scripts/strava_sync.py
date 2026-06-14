@@ -93,6 +93,7 @@ def downsample_series(xs, ys, max_points):
 
 
 def main():
+    print("SCRIPT VERSION: June 14 fix")
     access = refresh_access_token()
 
     athlete = get_json(
