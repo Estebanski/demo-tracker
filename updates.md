@@ -12,6 +12,29 @@ nav: updates
 <div class="update-card">
 
 <div class="update-card">
+    <div class="update-date">June 22,2026</div1
+    <div class="update-text">
+I'm currently at mile 1091 in South Lake Tahoe - next updates on 6/24 or 25 in Truckee.  the tracker seems broken and photos are taking a while to update.
+    </div>
+  </div>
+
+
+<div class="update-card">
+    <div class="update-date">June 19,2026</div>
+    <div class="update-text">
+Theres this hippy saying on the PCT - “the trail provides”.  The idea is the very thing you need suddenly shows up when you need it the most.  I don’t really believe it, but yesterday I was feeling so lonely, and today, man there were a lot of people to talk with.  First off at 8:30am i walked across a dirt road and there was a blue sign with a Hot Dog on it snd the words “Trail magic”.  Some guy named “Post Master” who had hiked the PCT 4 years ago set up trail magic in the remote boondocks off a dirt road.  He made me the best breakfast hamburger I’ve ever had.  It made me so happy to have someone to talk to, and the extra food was so good.  I still ate everything else I had for myself today, as well as a full hamburger, chips and 2 cokes.  I also met a hiker named Monte there who I chatted with for a bit.  He was doing 28 mile days, so I’ll likely never see him again, and then i saw about 30 day hikers as i’m hitting Carson pass and some of the other highways across the Sierra’s.  It was just what i needed - to be around people again, so maybe the trail does provide and I’m the idiot for not believing it.  Either way this was a good day of hiking.  22.5 miles and 4000 feet of elevation gain as well.
+    </div>
+  </div>
+
+
+<div class="update-card">
+    <div class="update-date">June 18,2026</div>
+    <div class="update-text">
+The last few days have been bizarre, the 4 days from Yosemite, and the last 2 days i barely saw anyone while I was out on the trail.  To be so alone left me kind of talking to myself.  I thought this section would be just as remote as the last one, and i wouldn’t see anyone for a few days….but then out of nowhere i saw a few dayhikers?!?!  I was shocked because I thought it would be days before we crossed a highway, but Ebbets pass was only a few miles away which is a road that drives across the mountains.  One of the day hikers asked me how my journey has been, and i kind of choked up a bit as i tried to explain the beauty of the PCT.  I was so happy to talk to someone again when i thought it would be another lonely day on the trail.  They must of thought I was loosing my mind, and maybe I was a little bit.  It made me realize how important having other people around is to me.  I also seem to have a little PTSD from the bear coming into my camp at night.  I woke up last night listening for broken twigs and expecting another bear to be around, but of course it was just my mind playing tricks on me.  On one hand I love hiking alone, setting my own pace and little daily goals, on the other hand I miss talking with people.  I’m not sure where all the PCT hikers have gone, but I appear to be in a bubble where it’s just me and everyone is kind of walking the same pace, so no one passes each other during the day.  I hope I catch up to someone friendly soon.
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">June 16,2026</div>
     <div class="update-text">
 So I made it to Kennedy Meadows North which is where everyone ships their axe and spikes home, but I almost needed both today.  I fully thought Donahue pass would close out the High Sierra’s but the PCT saved the best for last.  Sonora pass was not on my radar for amazing views or sketchy traverses because it’s just under 11000 feet high, but once you climb to elevation you end up weaving your way between some huge peaks along the ridge and there was still snow in a lot of places that had to be traversed and a few of the traverses were super scary - if you slip , you are going down a steep mountain to crash into granite rocks.  Unlike other passes where you only see the mountains immediately around you, on this pass you can see in any direction for miles and see mountains probably 100 miles away.  The views were out of this world, and after 6 straight nights dealing with thunder /lightning, bears, mosquitoes and all the pain of lugging heavy gear, it made me realize why I love doing this hike.  The Sierra’s are the most beautiful mountains on earth, and seeing places you can only get to by hiking there is so rewarding.  I hadn’t seen anyone for over a day and when you realize you are alone on top of these wild mountains in the back country, it may as well be the 1800’s, and the same experience that John Muir felt when he first saw these views.  When I finally crested the last peak today, I held my hiking poles up to the sky and yelled “Yeahhhh” as loud as I could. I did the same thing on Forester pass 3 weeks ago when I summitted that pass because I knew I could conquer the Sierra’s when I got up that first pass.  This was like a bookend because it felt like I went through so much in the High Sierra’s.  I was scared half to death by bears and the scale of the mountains.  To make it through alive, healthy and in one peice, and to have done it alone, i was absolutely feeling alive and like I had done something significant. The Sierra’s continue, but I won’t go above 10,000 feet again, and i won’t need mountaineering equipment when i do climb again.  Can’t wait to see how the Tahoe area and Norcal compare to what I’ve seen already.
