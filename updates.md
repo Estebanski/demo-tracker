@@ -12,9 +12,9 @@ nav: updates
 <div class="update-card">
 
 <div class="update-card">
-    <div class="update-date">June 22,2026</div1
+    <div class="update-date">June 25,2026</div1
     <div class="update-text">
-I'm currently at mile 1091 in South Lake Tahoe - next updates on 6/24 or 25 in Truckee.  the tracker seems broken and photos are taking a while to update.
+I'm currently at mile 1157 in Truckee - next updates on 6/26 in Sierra City.  the tracker seems broken and photos are taking a while to update.
     </div>
   </div>
 
