@@ -12,11 +12,18 @@ nav: updates
 <div class="update-card">
 
 <div class="update-card">
-    <div class="update-date">July 27,2026</div1
+    <div class="update-date">July 31,2026</div1
     <div class="update-text">
-I'm currently at mile 1907 in Shelter Cove, OR - next updates on 7/31 in Sisters, OR.  the tracker is broken and photos are taking a while to update.  I'm moving faster now so updates and this site are harder to maintain.
+I'm currently at mile 2002 in Sosters, OR - next updates on 8/6 in Cascade Locks, OR.  the tracker is broken and photos are taking a while to update.  I'm moving faster now so updates and this site are harder to maintain.
     </div>
   </div>
+
+<div class="update-card">
+<div class="update-date">July 31,2026</div>ye
+    <div class="update-text">
+So I figred out where Oregon’s mosquitoes come from.  The state is filled with lakes and ponds in select area’s that tend to be about 20 miles apart.  That means I get to walk from one bad water source to another with 20 dry miles in between.  It’s always an uphill slog to the next muddy pond where I have to carry 10 pounds of bad tasting water just to get there.  The last two days were pretty eventful.  I ran out of food because I came across 2 hikers in seperate instances who were totally out of food themselves.  My option in both cases was give them no food so I could eat, and let them die, or gove them food.  it seems like many of the young people hiking the trailmare running out of money to finish, snd are skimping on food.  It’s an insane gamble to think that kind strangers will save you on these stretches but thats what some of them are doing.  I feel for them and will donwhat I can but giving away all my food puts me in jeopardy too, so I’m not thrilled with their decisions.  another weird thing happened today, my PCT permit was checked by a Forest Service Officer.  literally the first time anyone has checked my permit and it comes after 2000 miles.  He then lectured me on camping in unauthorized places near the trail and how they would pull my permit if I did that.  After 5 months of hiking and camping I doubt I camped in an authorized place every night, but I also doubt anyone would know when i left because I bring all my gear with me when I leave.  it was bizarre that, thats what the Forest Service people think is important.  not the state of the trail. It’s really bad for hundreds of miles, not finding ways to attract more hikers (numbers are way down this year).  Not dealing with forest fires or land management….nope, make sure we don’t camp in a random spot in the middle of millions of acres of forest.  I can’t figure out what would change if everyone disobeyed that rule.  But I guess the Forest Servive had to do something to make themselves feel important.
+    </div>
+  </div> 
 
 <div class="update-card">
 <div class="update-date">July 25,2026</div>ye
