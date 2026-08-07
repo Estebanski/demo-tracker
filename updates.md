@@ -12,11 +12,19 @@ nav: updates
 <div class="update-card">
 
 <div class="update-card">
-    <div class="update-date">July 31,2026</div1
+    <div class="update-date"Aug 6,2026</div1
     <div class="update-text">
-I'm currently at mile 2002 in Sisters, OR - next updates on 8/6 in Cascade Locks, OR.  the tracker is broken and photos are taking a while to update.  I'm moving faster now so updates and this site are harder to maintain.
+I'm currently at mile 2149 in Stephenson, wA - next updates on 8/10 in Trout Lake, WA.  the tracker is broken and photos are taking a while to update.  I'm moving faster now so updates and this site are harder to maintain.
     </div>
   </div>
+
+
+<div class="update-card">
+<div class="update-date">Aug 6,2026</div>ye
+    <div class="update-text">
+So I made it out of Oregon, but I cheated.  I completed the through hike from Mexico to mile 2100 with a continuous foot path the entire way.  Then at mile 2100, I broke that foot path.  Mile 2100 is where the Timberline Lodge sits on Mt Hood in Oregon.  we climbed up to the lodge in some lighter afternoon smoke, but smoke had been swirling around the mountain for days from the grasshopper fire about 10 miles to the East.  the night we camped at mile 2100 around 9pm the wind changed, and the smoke came flowing into our camp.  I can only describe it as if we were sitting on the smokey side of a campfire, but you can’t stand up and move away.  I had a horrible nights sleep breathing caustic air.  When I woke up the next morning my lungs burned, I was coughing, and my eyes burned. i couldn’t see the trees that I knew were less than 100 yards away, and the sun was a dull orange in the sky.  the weather app said the air quality index where we were was about 300(Very Unhealthy).  the Timberline Lodge had sent all it’s employees home except the ones the keep the hotel part open.  No restaurant staff, no gift shop staff, no site maintenance, just hotel clerks.  it was bad and hiking for 12 hours in that thick smoke would have been detrimental to my health, so I along with all my hiking buddies decided to drive off the mountain and get to cleaner air by skipping ahead to Cascade Locks.  I created a 50 mile gap in my trail across America and will figure out later how to fill that gap.  for now the plan is to plow forward into Washington with my trail family that consists of me, Bar Fight, Ground Beef, Dr Dre and Bump.  these 4 other hikers have started caling me Sinderella, because of how I made the REI employee get me 1 of every shoe they had for trail running so I could try them all on before my PCT hike.  I found the perfect pair and knew immediately that it was my shoe because it didn’t pinch or hurt anywhere when I put it on.  Unfortunately those shoes have given me blisters again and I’m back to hobling along in pain.  I’ve been using tape, the liquid skin, gauze and every other item under the sun to make it better, but they still hurt.  This is my last pair of new shoes for the hike so I just need to make it through this last batch of blisters and I’ll be done.  I’m only 550 miles from the finish line, so everyone around me is eyeing the finish and planning our reintegration into normal life. I can’t wait to be done, but also know I’ll miss hiking this torturous trail.  
+    </div> 
+  </div> 
 
 <div class="update-card">
 <div class="update-date">July 31,2026</div>ye
